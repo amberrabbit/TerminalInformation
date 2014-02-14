@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TerminalInformation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ICCID_text">ICCID：</string>
+    <string name="IMIS_text">IMIS：</string>
+    <string name="IMEI_text">IMEI：</string>
+    <string name="MAC_text">MACアドレス：</string>
+    <string name="OS_text">OSのバージョン：</string>
+    <string name="PRODUCT_text">製品名：</string>
+
+</resources>
